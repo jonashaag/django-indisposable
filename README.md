@@ -2,7 +2,7 @@
 
 Disallow disposable email addresses in Django EmailField.
 
-A tiny Django wrapper around https://github.com/FGRibreau/mailchecker.
+A tiny Django wrapper around https://github.com/FGRibreau/mailchecker. Works with Python 2 and 3.
 
 Denies disposable email addresses with an error message, for example: "*spam4.me email addresses are not accepted.*"
 
